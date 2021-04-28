@@ -1,6 +1,6 @@
 # glusterfs-config
 
-###Step by step to setup
+### Step by step to setup
 
 fsidk -l /dev/sdb
 pvcreate /dev/sdb1
